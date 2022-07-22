@@ -1,0 +1,14 @@
+C:\Users\glauc\source\repos\Exercicio02CSharp\Exercicio02CSharp\bin\Debug\netcoreapp3.1\Exercicio02CSharp.exe
+C:\Users\glauc\source\repos\Exercicio02CSharp\Exercicio02CSharp\bin\Debug\netcoreapp3.1\Exercicio02CSharp.deps.json
+C:\Users\glauc\source\repos\Exercicio02CSharp\Exercicio02CSharp\bin\Debug\netcoreapp3.1\Exercicio02CSharp.runtimeconfig.json
+C:\Users\glauc\source\repos\Exercicio02CSharp\Exercicio02CSharp\bin\Debug\netcoreapp3.1\Exercicio02CSharp.runtimeconfig.dev.json
+C:\Users\glauc\source\repos\Exercicio02CSharp\Exercicio02CSharp\bin\Debug\netcoreapp3.1\Exercicio02CSharp.dll
+C:\Users\glauc\source\repos\Exercicio02CSharp\Exercicio02CSharp\bin\Debug\netcoreapp3.1\Exercicio02CSharp.pdb
+C:\Users\glauc\source\repos\Exercicio02CSharp\Exercicio02CSharp\obj\Debug\netcoreapp3.1\Exercicio02CSharp.csproj.AssemblyReference.cache
+C:\Users\glauc\source\repos\Exercicio02CSharp\Exercicio02CSharp\obj\Debug\netcoreapp3.1\Exercicio02CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\glauc\source\repos\Exercicio02CSharp\Exercicio02CSharp\obj\Debug\netcoreapp3.1\Exercicio02CSharp.AssemblyInfoInputs.cache
+C:\Users\glauc\source\repos\Exercicio02CSharp\Exercicio02CSharp\obj\Debug\netcoreapp3.1\Exercicio02CSharp.AssemblyInfo.cs
+C:\Users\glauc\source\repos\Exercicio02CSharp\Exercicio02CSharp\obj\Debug\netcoreapp3.1\Exercicio02CSharp.csproj.CoreCompileInputs.cache
+C:\Users\glauc\source\repos\Exercicio02CSharp\Exercicio02CSharp\obj\Debug\netcoreapp3.1\Exercicio02CSharp.dll
+C:\Users\glauc\source\repos\Exercicio02CSharp\Exercicio02CSharp\obj\Debug\netcoreapp3.1\Exercicio02CSharp.pdb
+C:\Users\glauc\source\repos\Exercicio02CSharp\Exercicio02CSharp\obj\Debug\netcoreapp3.1\Exercicio02CSharp.genruntimeconfig.cache
